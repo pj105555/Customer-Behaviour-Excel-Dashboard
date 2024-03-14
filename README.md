@@ -4,16 +4,16 @@ I am excited to share my Excel Project "Customer Behaviour Report"
 
 I have tried to analyze the followings things through Dashboard:
 
-> Orders: Men Vs Women
-> Recurring Customers : Top 5 States
-> Season Wise Sales Distribution
-> Orders:Age Group
-> Orders: Shipping Type
-> Sales: Category
-> Impact Of PromoCode on Orders
-> Orders: Rating Vs Repeated Purchases
-> Orders : Mode Of Payment
-> Top 5 Items Purchased
+> Orders: Men Vs Women,
+> Recurring Customers : Top 5 States,
+> Season Wise Sales Distribution,
+> Orders:Age Group,
+> Orders: Shipping Type,
+> Sales: Category,
+> Impact Of PromoCode on Orders,
+> Orders: Rating Vs Repeated Purchases,
+> Orders : Mode Of Payment,
+> Top 5 Items Purchased.
 
 Insights:
 1) Mens are Purchasing More Than Women (~68%)
